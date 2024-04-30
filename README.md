@@ -4,7 +4,7 @@ This repository contains my solutions to the problem sets of the online course, 
 ## Problem Sets
 The problem sets in the course cover SQL topics, in the order below:
 - Week 0: [Querying](week0)
-- Week 1: Relating
+- Week 1: [Relating](week1)
 - Week 2: Designing
 - Week 3: Writing
 - Week 4: Viewing
