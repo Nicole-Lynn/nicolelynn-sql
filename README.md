@@ -15,4 +15,4 @@ The problem sets in the course cover SQL topics, in the order below:
 - Week 3: [Writing](week3)
 - Week 4: Viewing
 - Week 5: Optimizing
-- Week 6: Scaling
+- Week 6: [Scaling](week6)
