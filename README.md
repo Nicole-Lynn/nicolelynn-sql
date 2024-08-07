@@ -16,3 +16,7 @@ The problem sets in the course cover SQL topics, in the order below:
 - Week 4: [Viewing](week4)
 - Week 5: [Optimizing](week5)
 - Week 6: [Scaling](week6)
+
+## Final Project
+The last part of the course is the final project:
+- [Final Project](project)
